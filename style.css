@@ -1,0 +1,41 @@
+body{
+    background-color:#F59E10;
+    font-family: 'Indie Flower', cursive;
+}
+
+img{
+    width: 240px;
+}
+
+.josephine{
+    width: 270px;
+    border-radius: 30px;
+}
+.astronauta{
+    width: 340px;
+    border-style: groove;
+    border-width: 5px;
+    border-color:#4C79E6;
+}
+.title-astrobiologia{
+    font-size: 28px;
+    color: #FE034F;
+}
+.parrafo-astrobiologia{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.title-misiones{
+    color:blueviolet;
+}
+.main-title{
+    font-family: 'Pangolin', cursive;
+    color: #4C79E6;
+    font-size: 50px;
+    text-align: center;
+    
+}
+/*
+selector{
+    propiedad : valor ;
+}
+*/
